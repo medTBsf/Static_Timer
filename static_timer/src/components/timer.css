@@ -1,0 +1,14 @@
+.content {
+  display: inline-block;
+}
+
+.value-timer {
+  font-size: 5em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.txt-zone {
+  display: flex;
+  justify-content: space-around;
+  color: #8c9a9c;
+  font-family: Arial, Helvetica, sans-serif;
+}
